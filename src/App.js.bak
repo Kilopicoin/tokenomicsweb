@@ -1,0 +1,31 @@
+
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      
+	  
+	  
+	  <h1>Kilopi Tokenomics</h1>
+	  
+	  <h3>Kilopi Tokenomics</h3>
+
+<div className="Appx">
+	  
+	  <figure className="snip1361">
+  <img src="https://kilopi.net/files/necessary/ecos/tokenomics.jpg" alt="sample45" width="90%" height="90%" />
+  
+
+</figure>
+
+	  
+	  
+	  </div>
+	  
+	  
+    </div>
+  );
+}
+
+export default App;
